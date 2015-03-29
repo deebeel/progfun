@@ -6,3 +6,5 @@
 **/lib_target/
 **/submission/
 **/recitations/
+**/target/
+**/.classpath
